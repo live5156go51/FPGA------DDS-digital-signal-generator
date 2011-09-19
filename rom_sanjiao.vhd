@@ -3,10 +3,10 @@
 -- Project    : 
 -------------------------------------------------------------------------------
 -- File       : rom_sanjiao.vhd
--- Author     :   <maillijunpeng@gmail.com>
+-- Author     :   <junstrix@gmail.com>
 -- Company    : 
 -- Created    : 2010-09-09
--- Last update: 2010-09-23
+-- Last update: 2011-09-19
 -- Platform   : 
 -- Standard   : VHDL'87
 -------------------------------------------------------------------------------
@@ -15,8 +15,8 @@
 -- Copyright (c) 2010 
 -------------------------------------------------------------------------------
 -- Revisions  :
--- Date        Version  Author  Description
--- 2010-09-09  1.0      lijunpeng       Created
+-- Date        Version  Author                  Description
+-- 2010-09-09  1.0      Yuweijia Lijunpeng       Created
 -------------------------------------------------------------------------------
 
 library ieee;
